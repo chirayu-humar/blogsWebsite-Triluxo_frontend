@@ -1,0 +1,35 @@
+.outerBlogItem {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .firstDiv {
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .secondDiv {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  hr {
+    border-top: solid;
+    border-color: black;
+    width: 100%;
+  }
+  .specialImage {
+    width: 100%;
+  }
+  .avatarContainer {
+    width: 40px;
+    height: 40px;
+  }
+  .avatarImage {
+    width: 100%;
+  }
